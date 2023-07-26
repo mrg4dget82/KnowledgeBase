@@ -5,7 +5,7 @@ sidebar_position: 1
 
 :::Info
 
-This article covers AdGuard for Android, a multifunctional ad blocker that protects your device at the system level. To see how it works, [download the AdGuard app](https://adguard.com/download.html?auto=true)
+Dieser Artikel behandelt AdGuard für Android, einem multifunktionalen Werbeblocker, der Ihr Gerät auf Systemebene schützt. Um zu sehen, wie es funktioniert, [laden Sie die AdGuard-App herunter](https://adguard.com/download.html?auto=true)
 
 :::
 
@@ -31,7 +31,7 @@ The program uses a lot of different filters, our own and third-party ones, sorte
 
 ![Filters *mobile](https://cdn.adtidy.org/content/kb/ad_blocker/android/features/filters1.png)
 
-Find out more about all the filters available for AdGuard products by reading their descriptions in the app or [this comprehensive article](/general/ad-filtering/adguard-filters).
+Weitere Informationen zu allen für AdGuard-Produkte verfügbaren Filtern finden Sie in den Beschreibungen in der App oder in [diesem umfassenden Artikel](/allgemein/ad-filtering/adguard-filters).
 
 ## Custom filters
 
@@ -184,7 +184,7 @@ But DNS servers not only vary by function. Besides, they can also differ by supp
 
 DNS-over-QUIC (DoQ) is a rather new encryption protocol and AdGuard DNS is the first public resolver that supports it. Unlike DoH and DoT, it uses QUIC as a transport protocol and finally brings DNS back to its roots — working over UDP. It brings all the good things that QUIC has to offer — out-of-the-box encryption, reduced connection times, better performance when data packets are lost. Also, QUIC is supposed to be a transport-level protocol and there are no risks of metadata leaks that could happen with DoH.
 
-To learn more about DNS-over-QUIC, check out [this article](https://adguard.com/en/blog/dns-over-quic.html) dedicated entirely to it.
+Weitere Informationen über DNS-over-QUIC finden Sie in [diesem Artikel](https://adguard.com/en/blog/dns-over-quic.html), der sich ausschließlich mit diesem Thema beschäftigt.
 
 To enable DoQ in AdGuard for Android, perform the following steps:
 

@@ -29,7 +29,7 @@ Pokud potřebujete spustit aktualizaci, použijte tento příkaz: `Msiexec /q /i
 
 :::note
 
-You must run these commands with admin privileges.
+Tyto příkazy musíte spouštět s právy administrátora.
 
 :::
 

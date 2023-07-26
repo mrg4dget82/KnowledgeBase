@@ -5,9 +5,11 @@ sidebar_position: 2
 
 ## Jak zakoupit licenci{#purchase}
 
-Licenci AdGuardu lze zakoupit na stránce [adguard.com](https://adguard.com/license.html). AdGuard Pro pro iOS lze zakoupit v App Store. Licence blokátoru reklam AdGuard prodávají také různí distributoři.
+Licenci AdGuardu lze zakoupit na stránce [adguard.com](https://adguard.com/license.html). We offer various payment options, including Visa, Mastercard, Apple Pay, Google Pay, PayPal, Alipay, and UnionPay. We also accept the following cryptocurrencies: Bitcoin, Ethereum, Litecoin, and Tether.
 
-Dostupnost AdGuard produktů v obchodech s aplikacemi a u distributorů závisí na vaší zemi.
+AdGuard Pro pro iOS lze zakoupit v App Store.
+
+Licence blokátoru reklam AdGuard prodávají také různí distributoři. Dostupnost AdGuard produktů v obchodech s aplikacemi a u distributorů závisí na vaší zemi.
 
 ## Jak upgradovat licenci{#upgrade}
 
