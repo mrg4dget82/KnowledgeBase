@@ -1,12 +1,15 @@
 ---
-title: AdGuard translation program
+title: AdGuard çeviri programı
 sidebar_position: 1
 ---
 
->**Disclaimer:** you can ask us any questions about translating AdGuard by sending an email to [translate@adguard.com](mailto:translate@adguard.com) or by joining our [Telegram chat](https://t.me/joinchat/UVYTLcHbr8JmOGIy).
+>**Disclaimer:** adguard çevirisiyle ilgili tüm sorularınızı şu adrese e-posta göndererek sorabilirsiniz:
+ [translate@adguard.com].
+ (mailto:translate@adguard.com).  veya [Telegram sohbetimize] katılabilirsiniz.
+ (https://t.me/joinchat/UVYTLCHbr8 JmOGIy).
 
-When it comes to translations, we at AdGuard always heavily rely on volunteers.
+Çeviri söz konusu olduğunda, AdGuard olarak her zaman gönüllülere güveniyoruz.
 
-We now use the [Crowdin platform](https://crowdin.com/) to manage translations of our products. So this is the place for anyone who wants to contribute to AdGuard by translating any of our products.
+Artık ürünlerimizin çevirilerini yönetmek için [Crowdin platformunu](https://crowdin.com/) kullanıyoruz.  Bu nedenle, ürünlerimizden herhangi birini çevirerek AdGuard'a katkıda bulunmak isteyenlerin yeri burasıdır.
 
-If you want to be among the volunteers who help us translate AdGuard, please read the information on [how to become our translator](../become-translator) and [how we collaborate with them](../rewards).
+AdGuard'ı tercüme etmemize yardımcı olan gönüllüler arasında yer almak istiyorsanız, lütfen nasıl tercümanımız olunacağı ve onlarla nasıl işbirliği yaptığımız hakkındaki bilgileri okuyun.
